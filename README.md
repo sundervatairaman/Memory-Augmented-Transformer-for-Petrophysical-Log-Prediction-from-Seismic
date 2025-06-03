@@ -1,4 +1,4 @@
-# Titans: Memory-Augmented Transformer for Well Log Prediction
+# Titans: Memory-Augmented Transformer for AIML Well Log Prediction from seismic 
 
 This project implements a custom memory-augmented Transformer neural network (called `TitansModel`) for predicting petrophysical logs from seismic and geological features. The goal is to enhance log prediction accuracy by incorporating long-term memory and adaptive forgetting mechanisms into the Transformer architecture.
 
